@@ -1,0 +1,21 @@
+{
+  "name": "cypress_framework",
+  "version": "1.0.0",
+  "description": "end to end framework testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "cypress",
+    "testing"
+  ],
+  "author": "nipder15",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^5.5.0"
+  }
+}
